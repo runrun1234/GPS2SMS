@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS2SMS</string>
+    <string name="channel_name">MonChannelName</string>
+    <string name="channel_description">MonChannelDescrip</string>
+</resources>
